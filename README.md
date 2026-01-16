@@ -37,6 +37,12 @@ Includes a 500+ word pool and color-coded results.
 
 
 🏗️ Project Structure
+
+![Home Screen](assets/screenshots/home.png)
+![Sequence Game](assets/screenshots/sequence.png)
+![Spatial Game](assets/screenshots/spatial.png)
+![Word Game](assets/screenshots/word.png)
+
 ```
 lib/
 ├── models/        # Game state & difficulty models
